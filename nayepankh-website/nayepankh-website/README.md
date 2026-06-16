@@ -11,4 +11,3 @@ The code expects these images:
 - images/about.png
 - images/join.png
 
-If you already have those images, place them inside the images folder.
